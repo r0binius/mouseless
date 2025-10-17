@@ -2105,7 +2105,7 @@ acorn@^7.1.0, acorn@^7.1.1, acorn@^7.4.0:
 
 "active-win@github:ueberdosis/active-win":
   version "7.7.2"
-  resolved "git+ssh://git@github.com/ueberdosis/active-win.git#92ab2db5db21466887d689d3a1280fe33d25d86d"
+  resolved "https://github.com/r0binius/active-win.git"
   optionalDependencies:
     ffi-napi "^4.0.3"
     ref-napi "^3.0.3"
